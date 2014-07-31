@@ -1,0 +1,9 @@
+# Global ignore
+# Add any directories or file types git should ignore
+
+# Copy to ~/.gitignore_global
+# Run git config --global core.excludesfile ~/.gitignore_global
+
+_rind/*
+
+*.df_bak
