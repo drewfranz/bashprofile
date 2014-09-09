@@ -59,9 +59,15 @@ alias undopush="git push -f origin HEAD^:master"
 alias gs="git status"
 alias gd="git diff"
 alias ga="git add"
+alias gb="git branch"
 
 # git root
 alias gr='[ ! -z `git rev-parse --show-cdup` ] && cd `git rev-parse --show-cdup || pwd`'
+
+# NODE STUFF
+
+alias ni="npm i"
+alias nr="npm run"
 
 # IP addresses
 alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
