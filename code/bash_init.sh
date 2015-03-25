@@ -2,9 +2,9 @@
 
 HOME=/home/vagrant
 
-mkdir $HOME/bashprofile/bak2
+mkdir $HOME/bashprofile/bak
 
-BAK=$HOME/bashprofile/bak2
+BAK=$HOME/bashprofile/bak
 
 echo $BAK created 
 
