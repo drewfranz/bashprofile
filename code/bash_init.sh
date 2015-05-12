@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOME=/home/vagrant
+HOME=/Users/drew
 
 mkdir $HOME/bashprofile/bak
 
